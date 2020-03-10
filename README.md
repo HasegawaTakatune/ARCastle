@@ -38,3 +38,6 @@
 - ARCore 1.15.0
 - VisualStudio 2019
 - C#
+  
+### 動画  
+- [実行動画(twitter)](https://twitter.com/RerykA99/status/1236980703184613376)  
