@@ -40,4 +40,4 @@
 - C#
   
 ### 動画  
-- [実行動画(twitter)](https://twitter.com/RerykA99/status/1236980703184613376)  
+- [実行動画(twitter)](https://twitter.com/RerykA99/status/1238100296053575681)  
